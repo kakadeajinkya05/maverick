@@ -1,9 +1,9 @@
 # Site settings
 title: MAVERICK
 email: ""
-description: "Photo Journal"
+description: "Git Repositories"
 #url: "https://sunbliss.github.io"
-url: "https://github.com/kakadeajinkya05"
+url: "https://kakadeajinkya05.github.io"
 baseurl: "/maverick"
 facebook_username: ""
 twitter_username: ""
@@ -19,7 +19,7 @@ owner:
   name:   Aj
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: Repository website template
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -34,9 +34,9 @@ comments :
 
 # Internal nav
 nav:
-#  - GALLERY: "https://github.com/kakadeajinkya05/photorama/gallery/"
-  - JOURNAL: "https://github.com/kakadeajinkya05/maverick/journal/"
-  - ABOUT: "https://github.com/kakadeajinkya05/maverick/about/"
+#  - GALLERY: "https://kakadeajinkya05.github.io/maverick/gallery/"
+  - JOURNAL: "https://kakadeajinkya05.github.io/maverick/journal/"
+  - ABOUT: "https://kakadeajinkya05.github.io/maverick/about/"
 
 # All translation keys
 translations:
