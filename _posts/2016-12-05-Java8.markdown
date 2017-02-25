@@ -1,0 +1,18 @@
+---
+layout:     post
+title:      "Java 8"
+subtitle:   "Lambda and Streams"
+active: journal
+image:
+  feature: "java8.jpg"
+date:       2016-12-05
+header-img: "img/postcover/java8.jpg"
+tags: [tag01, tag02]
+categories: [cat01, cat02]
+comments: false
+gitUri: https://github.com/kakadeajinkya05/java8-tutorial.git
+---
+
+Welcome to my introduction to Java 8. This tutorial guides you step by step through all new language features. Backed by short and simple code samples you'll learn how to use default interface methods, lambda expressions, method references and repeatable annotations. At the end of the article you'll be familiar with the most recent API changes like streams, functional interfaces, map extensions and the new Date API. No walls of text, just a bunch of commented code snippets. Enjoy!
+<br>
+Git Uri: <a href="https://github.com/kakadeajinkya05/java8-tutorial.git">https://github.com/kakadeajinkya05/java8-tutorial.git</a>
