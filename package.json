@@ -19,7 +19,7 @@
   },
   "homepage": "http://sunbliss.github.io",
   "dependencies": {
-    "searchkit": "^0.7.0",
+    "searchkit": "^2.4.3",
     "snyk": "^1.189.0"
   },
   "snyk": true
